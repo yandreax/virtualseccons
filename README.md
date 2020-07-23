@@ -33,13 +33,14 @@ The following are the upcoming events.
 | Aug 6-9 | DEF CON Voting Village activities during DEF CON Safemode | https://twitter.com/VotingVillageDC |
 | Aug 6-9 | DEF CON Wireless Village activities during DEF CON Safemode | https://www.wirelessvillage.ninja |
 | Aug 10-14 | Tactical Edge Virtual Summit 2020 | https://www.tacticaledge.co/en |
+| Aug 13-16 | Nullcon Online Training 2020 | https://nullcon.net |
 | Aug 18 | BSides København |  https://bsideskbh.dk |
 | Sep 22-25 | Tactical Edge LATAM Virtual Summit 2020 | https://www.tacticaledge.co |
 | Sep 26 |  Bsides Boston | https://bsidesbos.org |
+| Sept 27-Oct 2 | Hardware.io Netherlands 2020 | https://hardwear.io |
 | Oct 9 | ShellCon | https://shellcon.io |
 | Oct 15 | BSides Delhi | https://bsidesdelhi.in |
 | Oct 17-18 | BSides Toronto | http://www.bsidesto.ca/ |
 | Oct 29-31 | Texas Cyber Summit | https://www.texascybersummit.org |
 | Nov 1 | YASCON 2020 | https://yetanothersec.com/yascon2020 |
 | Nov 12-14 | m0leCon | https://m0lecon.it |
-
